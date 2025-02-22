@@ -1,0 +1,42 @@
+/* ===========================
+   ToC 
+
+   1.0 Phones 0 - 549px 
+   1.1 Results
+   =========================== */
+
+/* =================
+   Custom Properties
+   ================= */
+
+:root {
+  // Colors
+
+  // Primary
+  --color-soft-red: hsl(7, 99%, 70%);
+  --color-yellow: hsl(51, 100%, 49%);
+  // graphic design text
+  --color-dark-desat-cyan: hsl(167, 40%, 24%);
+  // photography text
+  --color-dark-blue: hsl(198, 62%, 26%);
+  // footer
+  --color-dark-mod-cyan: hsl(168, 34%, 41%);
+
+  // Neutral
+  --color-very-dark-desat-blue: hsl(212, 27%, 19%);
+  --color-very-dark-gray-blue: hsl(213, 9%, 39%);
+  --color-dark-gray-blue: hsl(232, 10%, 55%);
+  --color-gray-blue: hsl(210, 4%, 67%);
+  --color-white: hsl(0, 0%, 100%);
+
+  // Spacing
+  --margin-gutters: 3rem;
+}
+
+/* ==============================
+   1.0 Phones & Tablets 0 - 900px 
+   ============================== */
+
+.main-title {
+  font-size: 4rem;
+}
