@@ -11,7 +11,7 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Github Pages](https://pk-agency-landing.netlify.app/)
+- Live Site URL: [Github Pages](https://pk-product-cart.netlify.app/)
 
 ### Built with
 
